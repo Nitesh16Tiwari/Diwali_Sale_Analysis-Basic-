@@ -5,6 +5,7 @@ of Diwali sales, where trends illuminate the path of progress. The software indu
 isn't the only sector witnessing constant evolution—Diwali sales, too, dance to the 
 rhythm of changing consumer behaviors and emerging technologies.
 
+![Diwali-Sales-Data-Analysis](https://github.com/Nitesh16Tiwari/Diwali_Sale_Analysis-Basic-/assets/149307978/703af4a4-99e9-4cec-b249-ff0354a39a86)
 
 # Objective 
 * Improve customer experience by analyzing sales data.
